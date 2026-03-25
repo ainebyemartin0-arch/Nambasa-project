@@ -1,3 +1,15 @@
+"""
+Professional Portfolio Website for Nambasa Daphine
+Human Resource Manager - Uganda
+
+This website was custom developed by Ainebye Martin for Nambasa Daphine.
+All rights reserved by Nambasa Daphine.
+
+Developer: Ainebye Martin
+Client: Nambasa Daphine
+Project: Professional Portfolio Website
+"""
+
 from flask import Flask, render_template, request, flash, redirect, url_for, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime

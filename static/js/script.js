@@ -1,4 +1,15 @@
-// Initialize AOS (Animate On Scroll)
+/*
+Professional Portfolio Website JavaScript
+Designed for Nambasa Daphine - Human Resource Manager
+All rights reserved by Nambasa Daphine
+
+Developer: Ainebye Martin
+Client: Nambasa Daphine
+Project: Professional Portfolio Website
+
+Custom JavaScript for interactive features
+Modern animations and user interactions
+*/
 AOS.init({
     duration: 1000,
     once: true,
